@@ -38,5 +38,5 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 
 ## Passos para resolução
 Criar projeto node ```yarn -y```  
-Adicionar express ```yarn add express```
+Adicionar express ```yarn add express```  
 Criar arquivo index.js
